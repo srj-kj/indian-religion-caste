@@ -26,4 +26,4 @@ const Jewish=getCaste("Jewish")
 const InterReligion=getCaste("Inter-Religion")
 const NoReligiousBelief=getCaste("No Religious Belief")
 
-module.exports = {indian_religion_caste,Hindu,Muslim,MuslimShia,MuslimSunni,Christian,Sikh,JainAll,JainDigambar,JainShwetambar,Parsi,Buddhist,Jewish,InterReligion,NoReligiousBelief};
+module.exports = {indian_religion_caste,religions,Hindu,Muslim,MuslimShia,MuslimSunni,Christian,Sikh,JainAll,JainDigambar,JainShwetambar,Parsi,Buddhist,Jewish,InterReligion,NoReligiousBelief};

@@ -1,8 +1,9 @@
 {
   "name": "indian-religion-caste",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "indian-religion-caste",
   "main": "index.js",
+  "homepage": "https://github.com/adarsht0001/indian-religion-caste#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
