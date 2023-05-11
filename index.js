@@ -21,9 +21,9 @@ const JainAll=getCaste("Jain - All")
 const JainDigambar=getCaste("Jain - Digambar")
 const JainShwetambar=getCaste("Jain - Shwetambar")
 const Parsi=getCaste("Parsi")
-// const Buddhist=getCaste("Buddhist")
-// const Jewish=getCaste("Jewish")
-// const InterReligion=getCaste("Inter-Religion")
+const Buddhist=getCaste("Buddhist")
+const Jewish=getCaste("Jewish")
+const InterReligion=getCaste("Inter-Religion")
 const NoReligiousBelief=getCaste("No Religious Belief")
 
 module.exports = {indian_religion_caste,religions,Hindu,Muslim,MuslimShia,MuslimSunni,Christian,Sikh,JainAll,JainDigambar,JainShwetambar,Parsi,Buddhist,Jewish,InterReligion,NoReligiousBelief};
