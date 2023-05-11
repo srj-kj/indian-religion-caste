@@ -1,0 +1,15 @@
+{
+  "name": "indian-religion-caste",
+  "version": "1.0.0",
+  "description": "indian-religion-caste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/adarsht0001/indian-religion-caste)"
+  },
+  "author": "Adarsh T",
+  "license": "ISC"
+}
