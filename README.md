@@ -19,7 +19,6 @@ The module provides the following features:
   * [Installation](#installation)
   * [Usage](#usage)
   * [Data](#data)
-
   
 # Installation
 ### Package manager
