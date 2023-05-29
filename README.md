@@ -3,7 +3,7 @@
   ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/connietran-dev/readme-generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/adarsht0001/indian-religion-caste?style=flat&logo=appveyor)
   
   
- # Indian-Religion-Caste Module
+# Indian-Religion-Caste Module
 
 The `Indian-Religion-Caste` module is designed to provide a comprehensive and accurate database of caste and religion data in India for educational or research purposes. The module contains structured data on different castes and religions in India, including caste names, descriptions, and historical background. It also includes information on religious practices, traditions, and beliefs.
 
